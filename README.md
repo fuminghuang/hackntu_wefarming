@@ -12,7 +12,8 @@ https://github.com/fuminghuang/hackntu_wefarming <br>
 https://github.com/fuminghuang/hackntu_wefarming/blob/master/2017HackNTU_Presentation.pptx  <br>
 
 
-<img src="https://fuminghuang.github.io/asian_gfe/images/gfe_page.png"> <br>
+<img src="https://fuminghuang.github.io/hackntu_wefarming/images/2017HackNTU-1.png"> <br>
 
-<img src="https://fuminghuang.github.io/asian_gfe/images/gfe_demo.png"> <br>
+<img src="https://fuminghuang.github.io/hackntu_wefarming/images/2017HackNTU-2.png"> <br>
 
+<img src="https://fuminghuang.github.io/hackntu_wefarming/images/2017HackNTU-3.png"> <br>
